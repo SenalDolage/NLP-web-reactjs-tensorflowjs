@@ -6,7 +6,7 @@ export const Header = () => {
         <header className="header">
             <Navbar bg="primary" variant="dark">
                 <Container>
-                    <Navbar.Brand>Tensorflow NLP Demo App</Navbar.Brand>
+                    <Navbar.Brand>TensorFlow NLP Demo App</Navbar.Brand>
                 </Container>
             </Navbar>
         </header>
