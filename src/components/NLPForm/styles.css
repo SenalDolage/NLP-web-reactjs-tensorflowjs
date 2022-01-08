@@ -7,6 +7,7 @@
 
 .form-wrapper textarea {
     resize: none;
+    border-width: 5px;
 }
 
 .form-wrapper .passage-text {
