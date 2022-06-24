@@ -5,5 +5,7 @@ This is a project done to work with the Natural language question answering mode
 [![screenshot-localhost-3000-2022-01-08-17-12-52.png](https://i.postimg.cc/fWx7DgMh/screenshot-localhost-3000-2022-01-08-17-12-52.png)](https://postimg.cc/dDVZ967W)
 
 ### References
-https://morioh.com/p/4e18888b3584
-https://github.com/tensorflow/tfjs-models/tree/master/qna
+<ul>
+    <li>https://morioh.com/p/4e18888b3584</li>
+    <li>https://github.com/tensorflow/tfjs-models/tree/master/qna</li>
+</ul>
